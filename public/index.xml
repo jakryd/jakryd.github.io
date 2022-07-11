@@ -6,5 +6,21 @@
     <description>Recent content on Vanilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/about/</guid>
+      <description>About  Dr. Jakub Rydzewski
+Institute of Physics, Nicolaus Copernicus University (NCU)
+Grudziadzka 5, 87-100 Toruń, Poland
+email: jr@fizyka.umk.pl
+phone: +48 56 611 3346
+office: 573
+ Scientific Career
+ Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof. Yasuteru Shigeta. 2018-2019 Assistant at the Institute of Physics NCU (Toruń, Poland). 2016 Researcher at the Department of Chemistry and Applied Biosciences, Swiss Federal Institute of Technology in Zürich, Switzerland, the group of Prof.</description>
+    </item>
+    
   </channel>
 </rss>
