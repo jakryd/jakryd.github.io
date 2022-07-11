@@ -15,6 +15,8 @@ email: <jr@fizyka.umk.pl>
 phone: +48 56 611 3346  
 office: 573  
 
+If you would like to encrypt your email, use key ID [0x9C1099DF](/gpg.asc).
+
 ---
 
 **Scientific Career**
