@@ -2,6 +2,7 @@ baseURL: https://jakryd.github.io
 languageCode: en-us
 title: Vanilla
 theme: vanilla-bootstrap-hugo-theme
+publishDir: public
 
 permalinks:
   post: /:filename/
