@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vanilla</title>
+    <title>JR&#39;s Research</title>
     <link>https://jakryd.github.io/</link>
-    <description>Recent content on Vanilla</description>
+    <description>Recent content on JR&#39;s Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,8 +18,43 @@ Grudziadzka 5, 87-100 Toruń, Poland
 email: jr@fizyka.umk.pl
 phone: +48 56 611 3346
 office: 573
+If you would like to encrypt your email, use key ID 0x9C1099DF.
  Scientific Career
- Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof. Yasuteru Shigeta. 2018-2019 Assistant at the Institute of Physics NCU (Toruń, Poland). 2016 Researcher at the Department of Chemistry and Applied Biosciences, Swiss Federal Institute of Technology in Zürich, Switzerland, the group of Prof.</description>
+ Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof. Yasuteru Shigeta.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/publications/</guid>
+      <description>Publications  orcid: 0000-0003-4325-4177
+arXiv: 0000-0003-4325-4177
+scholar: dEMXOpcAAAAJ
+  J. Rydzewski, and O. Valsson
+Multiscale Reweighted Stochastic Embedding (MRSE): Deep Learning of Collective Variables for Enhanced Sampling
+arXiv:2007.06377 (2021)
+arXiv:2007.06377 / Zenodo:4756093
+  J. Rydzewski
+maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels
+Comp. Phys. Commun. 247, 106865 (2020)
+DOI:10.1016/j.cpc.2019.106865 / arXiv:1904.03929 / plumID:19.056
+  J. Rydzewski as part of PLUMED Consortium
+Promoting Transparency and Reproducibility in Enhanced Molecular Simulations</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/software/</guid>
+      <description>Contributions  github: @jakryd
+ PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations.  Modules for PLUMED2:
+ lowlearner maze   lowlearner  maze  maze (version 1.0) [1,2]
+Github
+maze is a code that implements enhanced sampling methods for sampling the reaction pathways of ligand unbinding. It is made as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.</description>
     </item>
     
   </channel>
