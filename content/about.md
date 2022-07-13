@@ -12,7 +12,7 @@ Institute of Physics, Nicolaus Copernicus University (NCU)
 Grudziadzka 5, 87-100 Toruń, Poland
 
 email: <jr@fizyka.umk.pl>  
-pgp: [0x9C1099DF](/gpg.asc)
+pgp: [0x9C1099DF](/gpg.asc)  
 phone: +48 56 611 3346  
 office: 573  
 
