@@ -10,11 +10,25 @@ orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)
 arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
 scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)  
 
+* __J. Rydzewski__, K. Walczewska-Szewc, S. Czach, W. Nowak, K. Kuczera  
+  *Enhancing the Inhomogeneous Photodynamics of Canonical Bacteriophytochrome*  
+  J. Phys. Chem. B 126, 2647 (2022)  
+  [DOI:10.1021/acs.jpcb.2c00131](https://doi.org/10.1021/acs.jpcb.2c00131) /
+  [ChemRxiv:n8hlc](https://doi.org/10.26434/chemrxiv-2021-n8hlc-v2) /
+  [plumID:22.015](https://plumed-nest.org/eggs/22/015/)
+
+* K. Walczewska-Szewc, __J. Rydzewski__, and A. Lewkowicz  
+  *Inhibition-Mediated Changes in Prolyl Oligopeptidase Dynamics Possibly Related to α-Synuclein Aggregation*  
+  Phys. Chem. Chem. Phys. 24, 4366 (2022)  
+  [DOI:10.1039/D1CP05238A](https://doi.org/10.1039/D1CP05238A)  
+
 * __J. Rydzewski__, and [O. Valsson](https://www2.mpip-mainz.mpg.de/~valsson/)  
-  *Multiscale Reweighted Stochastic Embedding (MRSE): Deep Learning of Collective Variables for Enhanced Sampling*  
-  arXiv:2007.06377 (2021)  
+  *Multiscale Reweighted Stochastic Embedding: Deep Learning of Collective Variables for Enhanced Sampling*  
+  J. Phys. Chem. A 125, 6286 (2021)  
+  [DOI:10.1021/acs.jpca.1c02869](https://doi.org/10.1021/acs.jpca.1c02869) /
   [arXiv:2007.06377](https://arxiv.org/abs/2007.06377) /
-  [Zenodo:4756093](https://zenodo.org/record/4756093)
+  [Zenodo:4756093](https://zenodo.org/record/4756093) /
+  [plumID:21.023](https://www.plumed-nest.org/eggs/21/023/)
   
 * __J. Rydzewski__  
   *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
