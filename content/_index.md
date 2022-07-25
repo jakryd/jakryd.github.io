@@ -3,6 +3,9 @@ title: ""
 draft: false
 ---
  
+We have an opening for a PhD student position. More information here: https://euraxess.ec.europa.eu/jobs/816551.
+
+---
 ##### Research
 ---
 
@@ -15,4 +18,3 @@ Some of my recent interests include:
 * Learning collective variables for enhanced sampling methods;
 * Representation learning with physical meaning;
 * Rare events in biophysical processes.
-
