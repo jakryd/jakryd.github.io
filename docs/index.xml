@@ -12,15 +12,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/about/</guid>
-      <description>About  Dr. Jakub Rydzewski
+      <description>About Dr. Jakub Rydzewski
 Institute of Physics, Nicolaus Copernicus University (NCU)
 Grudziadzka 5, 87-100 Toruń, Poland
 email: jr@fizyka.umk.pl
 pgp: 0x9C1099DF
 phone: +48 56 611 3346
 office: 573
- Scientific Career
- Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof. Yasuteru Shigeta. 2018-2019 Assistant at the Institute of Physics NCU (Toruń, Poland).</description>
+Scientific Career
+Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof. Yasuteru Shigeta. 2018-2019 Assistant at the Institute of Physics NCU (Toruń, Poland). 2016-2017 Researcher at the Department of Theoretical and Computational Biophysics, Max Planck Institute for Biophysical Chemistry, Germany, the group of Prof.</description>
     </item>
     
     <item>
@@ -29,18 +29,19 @@ office: 573
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/publications/</guid>
-      <description>Publications  orcid: 0000-0003-4325-4177
+      <description>Publications orcid: 0000-0003-4325-4177
 arXiv: 0000-0003-4325-4177
 scholar: dEMXOpcAAAAJ
-  J. Rydzewski, K. Walczewska-Szewc, S. Czach, W. Nowak, K. Kuczera
+J. Rydzewski, K. Walczewska-Szewc, S. Czach, W. Nowak, K. Kuczera
 Enhancing the Inhomogeneous Photodynamics of Canonical Bacteriophytochrome
 J. Phys. Chem. B 126, 2647 (2022)
 DOI:10.1021/acs.jpcb.2c00131 / ChemRxiv:n8hlc / plumID:22.015
-  K. Walczewska-Szewc, J. Rydzewski, and A. Lewkowicz
+K. Walczewska-Szewc, J. Rydzewski, and A. Lewkowicz
 Inhibition-Mediated Changes in Prolyl Oligopeptidase Dynamics Possibly Related to α-Synuclein Aggregation
 Phys. Chem. Chem. Phys. 24, 4366 (2022)
 DOI:10.1039/D1CP05238A
-  J. Rydzewski, and O.</description>
+J. Rydzewski, and O. Valsson
+Multiscale Reweighted Stochastic Embedding: Deep Learning of Collective Variables for Enhanced Sampling</description>
     </item>
     
     <item>
@@ -49,9 +50,9 @@ DOI:10.1039/D1CP05238A
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/software/</guid>
-      <description>Contributions  github: @jakryd
- PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations.  Modules for PLUMED2:
- lowlearner maze   lowlearner  maze  maze (version 1.0) [1,2]
+      <description>Contributions github: @jakryd
+PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
+lowlearner maze lowlearner maze maze (version 1.0) [1,2]
 Github
 maze is a code that implements enhanced sampling methods for sampling the reaction pathways of ligand unbinding. It is made as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.</description>
     </item>
