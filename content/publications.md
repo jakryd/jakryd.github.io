@@ -10,7 +10,7 @@ orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)
 arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
 scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)  
 
-* __J. Rydzewski__, M. Chen, T. K. Ghosh, O. Valsson  
+* __J. Rydzewski__, M. Chen, T. K. Ghosh, [O. Valsson](https://www2.mpip-mainz.mpg.de/~valsson/)  
   *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
   J. Chem. Theory Comput. 18, 7179 (2022)  
   [DOI:10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873) /
