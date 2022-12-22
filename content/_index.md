@@ -2,10 +2,7 @@
 title: ""
 draft: false
 ---
- 
-We have an opening for a PhD student position. More information: https://euraxess.ec.europa.eu/jobs/857390
 
----
 ##### Research
 ---
 
