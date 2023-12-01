@@ -14,7 +14,8 @@ studying the long-time behavior of physical systems.
 Some of my recent publications:
 * __J. Rydzewski__, M. Chen, O. Valsson  
   *Manifold Learning in Atomistic Simulations: A Conceptual Review*  
-  arXiv (2023)  
+  Mach. Learn.: Sci. Technol. 4, 031001 (2023)  
+  [DOI:10.1088/2632-2153/ace81a](https://doi.org/10.1088/2632-2153/ace81a) /
   [arXiv:2303.08486](https://arxiv.org/abs/2303.08486)
 
 * __J. Rydzewski__  

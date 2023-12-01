@@ -10,9 +10,18 @@ orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)
 arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
 scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)  
 
+* __J. Rydzewski__, T. Gökdemir  
+  *Learning Markovian Dynamics with Spectral Maps*  
+  [arXiv:2311.16411](https://arxiv.org/abs/2311.16411)
+
+* T. Gökdemir, __J. Rydzewski__  
+  *Spectral Maps for Learning Reduced Representations of Molecular Systems*  
+  [arXiv:2311.03641](https://arxiv.org/abs/2311.03641)
+
 * __J. Rydzewski__, M. Chen, O. Valsson  
   *Manifold Learning in Atomistic Simulations: A Conceptual Review*  
-  arXiv (2023)  
+  Mach. Learn.: Sci. Technol. 4, 031001 (2023)  
+  [DOI:10.1088/2632-2153/ace81a](https://doi.org/10.1088/2632-2153/ace81a) /
   [arXiv:2303.08486](https://arxiv.org/abs/2303.08486)
 
 * __J. Rydzewski__  
@@ -27,8 +36,9 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
 
 * B. Niklas, __J. Rydzewski__, B. Lapied, W. Nowak  
   *Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides*  
-  bioRxiv (2023)  
-  [DOI:10.1101/2023.03.29.534712](https://doi.org/10.1101/2023.03.29.534712)  
+  Int. J. Mol. Sci. 24, 10334 (2023)  
+  [DOI:10.3390/ijms241210334](https://doi.org/10.3390/ijms241210334) /
+  [bioRxiv:10.1101/2023.03.29.534712](https://doi.org/10.1101/2023.03.29.534712)  
 
 * __J. Rydzewski__, M. Chen, T. K. Ghosh, [O. Valsson](https://www2.mpip-mainz.mpg.de/~valsson/)  
   *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  

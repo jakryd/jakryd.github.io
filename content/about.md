@@ -13,12 +13,16 @@ Grudziadzka 5, 87-100 Toruń, Poland
 
 email: <jr@fizyka.umk.pl>  
 pgp: [0x9C1099DF](/gpg.asc)  
-phone: +48 56 611 3346  
-office: 573  
+wire: [@jkrd](https://account.wire.com/user-profile/?id=C96B75EF-25A6-49DC-80A2-846CC0B50DE4)    
 
 ---
 
 **Scientific Career**
+
+2023-2024
+:   *Japan Society for the Promotion of Science (JSPS) Fellow* at the 
+    National Institute of Advanced Industrial Science and Technology
+    (AIST), Japan, the group of Prof. Tetsuya Morishita.
 
 Since 2019
 :   *Assistant Professor* at the Institute of Physics NCU (Toruń, Poland).
