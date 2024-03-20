@@ -12,6 +12,12 @@ My research focuses on the development of enhanced sampling methods for
 studying the long-time behavior of physical systems.
 
 Some of my recent publications:
+* __J. Rydzewski__, T. Gökdemir  
+  *Learning Markovian Dynamics with Spectral Maps*  
+  J. Chem. Phys. 160, 091102 (2024)  
+  [doi:10.1063/5.0189241](https://doi.org/10.1063/5.0189241) /
+  [arXiv:2311.16411](https://arxiv.org/abs/2311.16411)
+
 * __J. Rydzewski__, M. Chen, O. Valsson  
   *Manifold Learning in Atomistic Simulations: A Conceptual Review*  
   Mach. Learn.: Sci. Technol. 4, 031001 (2023)  
