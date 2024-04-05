@@ -11,23 +11,26 @@ menu:
     weight: 1
   - name: Publications
     url: /publications/
-    weight: 2
+    weight: 3
   - name: Software
     url: /software/
-    weight: 3
-  - name: About
-    url: /about/
     weight: 4
+  - name: Group
+    url: /group/
+    weight: 2
 
 params:
   includeBootstrapJs: false
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: ice cream
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  homeText: 
+  footerText: Made with [Hugo](https://gohugo.io/)  
   hideFooter: false
   katex: true
+  plugins:
+    css:
+      - URL: plugins/academicons/css/academicons.css
 
 markup:
   defaultMarkdownHandler: goldmark

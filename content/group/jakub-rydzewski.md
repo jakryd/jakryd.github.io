@@ -3,21 +3,18 @@ title: ""
 draft: false
 ---
 
-##### About
+###### **Dr. Jakub Rydzewski**
 ---
 
-**Dr. Jakub Rydzewski**
-
-Institute of Physics, Nicolaus Copernicus University (NCU)   
-Grudziadzka 5, 87-100 Toruń, Poland
-
-email: <jr@fizyka.umk.pl>  
-pgp: [0x9C1099DF](/gpg.asc)  
+email: <jr@fizyka.umk.pl> ([0x9C1099DF](/gpg.asc))  
 wire: [@jkrd](https://account.wire.com/user-profile/?id=C96B75EF-25A6-49DC-80A2-846CC0B50DE4)    
 
----
+orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)  
+arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
+scholar: [dEMXOpcAAAAJ](https://scholar.google.com/citations?&user=dEMXOpcAAAAJ)  
 
-**Scientific Career**
+
+*Scientific Career*
 
 2023-2024
 :   *Japan Society for the Promotion of Science (JSPS) Fellow* at the 
@@ -45,9 +42,7 @@ Since 2019
     Swiss Federal Institute of Technology in Zürich, Switzerland,
     the group of [Prof. Michele Parrinello](http://www.rgp.ethz.ch).
 
----
-
-**Education**
+*Education*
 
 2014-2018
 :   *PhD in Physical Sciences* at the Institue of Physics NCU (Toruń, Poland).

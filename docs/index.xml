@@ -8,18 +8,14 @@
     <language>en-us</language><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jakryd.github.io/about/</link>
+      <link>https://jakryd.github.io/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jakryd.github.io/about/</guid>
-      <description>About Dr. Jakub Rydzewski
-Institute of Physics, Nicolaus Copernicus University (NCU)
-Grudziadzka 5, 87-100 Toruń, Poland
-email: jr@fizyka.umk.pl
-pgp: 0x9C1099DF
-wire: @jkrd
-Scientific Career
-2023-2024 Japan Society for the Promotion of Science (JSPS) Fellow at the National Institute of Advanced Industrial Science and Technology (AIST), Japan, the group of Prof. Tetsuya Morishita. Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof.</description>
+      <guid>https://jakryd.github.io/group/</guid>
+      <description>Group Group leader:
+Dr. Jakub Rydzewski PhD students:
+Sylwia Czach Tuğçe Gökdemir Students:
+Patryk Tajs </description>
     </item>
     
     <item>
@@ -28,21 +24,20 @@ Scientific Career
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/publications/</guid>
-      <description>Publications orcid: 0000-0003-4325-4177
-arXiv: 0000-0003-4325-4177
-scholar: dEMXOpcAAAAJ
+      <description>Publications 2024
 J. Rydzewski, T. Gökdemir
 Learning Markovian Dynamics with Spectral Maps
 J. Chem. Phys. 160, 091102 (2024)
 doi:10.1063/5.0189241 / arXiv:2311.16411 / Zenodo:10678142 / plumID:24.005
 T. Gökdemir, J. Rydzewski
 Spectral Maps for Learning Reduced Representations of Molecular Systems
+CCP2023 - 34th IUPAP Conference on Computational Physics
 arXiv:2311.03641
+2023
 J. Rydzewski, M. Chen, O. Valsson
 Manifold Learning in Atomistic Simulations: A Conceptual Review
 Mach. Learn.: Sci. Technol. 4, 031001 (2023)
-doi:10.1088/2632-2153/ace81a / arXiv:2303.08486
-J. Rydzewski</description>
+doi:10.1088/2632-2153/ace81a / arXiv:2303.</description>
     </item>
     
     <item>
@@ -51,7 +46,7 @@ J. Rydzewski</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/software/</guid>
-      <description>Contributions github: @jakryd
+      <description>Software github: @jakryd
 PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
 lowlearner maze lowlearner maze maze (version 1.0) [1,2]
 Github

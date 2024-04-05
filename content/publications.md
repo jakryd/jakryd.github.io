@@ -6,10 +6,7 @@ draft: false
 ##### Publications
 ---
 
-orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)  
-arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
-scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)  
-
+2024
 * __J. Rydzewski__, T. Gökdemir  
   *Learning Markovian Dynamics with Spectral Maps*  
   J. Chem. Phys. 160, 091102 (2024)  
@@ -20,8 +17,10 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
 
 * T. Gökdemir, __J. Rydzewski__  
   *Spectral Maps for Learning Reduced Representations of Molecular Systems*  
+  [CCP2023 - 34th IUPAP Conference on Computational Physics](https://ccp2023.jp/)  
   [arXiv:2311.03641](https://arxiv.org/abs/2311.03641)
 
+2023
 * __J. Rydzewski__, M. Chen, O. Valsson  
   *Manifold Learning in Atomistic Simulations: A Conceptual Review*  
   Mach. Learn.: Sci. Technol. 4, 031001 (2023)  
@@ -45,6 +44,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   [doi:10.3390/ijms241210334](https://doi.org/10.3390/ijms241210334) /
   [bioRxiv:10.1101/2023.03.29.534712](https://doi.org/10.1101/2023.03.29.534712)  
 
+2022
 * __J. Rydzewski__, M. Chen, T. K. Ghosh, [O. Valsson](https://www2.mpip-mainz.mpg.de/~valsson/)  
   *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
   J. Chem. Theory Comput. 18, 7179 (2022)  
@@ -64,6 +64,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   Phys. Chem. Chem. Phys. 24, 4366 (2022)  
   [doi:10.1039/D1CP05238A](https://doi.org/10.1039/D1CP05238A)  
 
+2021
 * __J. Rydzewski__, and [O. Valsson](https://www2.mpip-mainz.mpg.de/~valsson/)  
   *Multiscale Reweighted Stochastic Embedding: Deep Learning of Collective Variables for Enhanced Sampling*  
   J. Phys. Chem. A 125, 6286 (2021)  
@@ -72,6 +73,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   [Zenodo:4756093](https://zenodo.org/record/4756093) /
   [plumID:21.023](https://www.plumed-nest.org/eggs/21/023/)
   
+2020
 * __J. Rydzewski__  
   *maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels*  
   Comp. Phys. Commun. 247, 106865 (2020)  
@@ -79,6 +81,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   [arXiv:1904.03929](https://arxiv.org/abs/1904.03929) /
   [plumID:19.056](https://www.plumed-nest.org/eggs/19/056/)
 
+2019
 * __J. Rydzewski__ as part of [PLUMED Consortium](https://www.plumed-nest.org/consortium.html)  
   *Promoting Transparency and Reproducibility in Enhanced Molecular Simulations*  
   Nat. Methods 16, 670 (2019)  
@@ -96,6 +99,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   Life 9, 46 (2019)  
   [doi:10.3390/life9020046](https://doi.org/10.3390/life9020046)
 
+2018
 * __J. Rydzewski__, R. Jakubowski, W. Nowak, and [H. Grubmüller](https://www.mpibpc.mpg.de/grubmueller)  
   *Kinetics of Huperzine A Dissociation from Acetylcholinesterase via Multiple Unbinding Pathways*  
   J. Chem. Theory Comput. 14, 2843 (2018)  
@@ -112,6 +116,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
  IEEE/ACM Trans. Comput. Biol. Bioinformatics 15, 732 (2018)  
  [doi:10.1109/tcbb.2016.2634008](https://doi.org/10.1109/TCBB.2016.2634008)
 
+2017
 * __J. Rydzewski__, and W. Nowak  
   *Rare-Event Sampling in Ligand Diffusion*  
   Phys. Life Rev. 22-23, 85 (2017)  
@@ -127,6 +132,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   Sci. Rep. 7, 7736 (2017)  
   [doi:10.1038/s41598-017-07993-0](https://doi.org/10.1038/s41598-017-07993-0)
 
+2016
 * __J. Rydzewski__, and W. Nowak  
   *Machine Learning Based Dimensionality Reduction Facilitates Ligand Diffusion Paths Assessment: A Case of Cytochrome P450cam*  
   J. Chem. Theory Comput. 12, 2110 (2016)  
@@ -138,6 +144,7 @@ scholar: [dEMXOpcAAAAJ](https://scholar.google.pl/citations?&user=dEMXOpcAAAAJ)
   Second Edition (2016) (Editior: J. Leszczynski)  
   [doi:10.1007/978-94-007-6169-8_49-1](https://doi.org/10.1007/978-94-007-6169-8_49-1)
 
+2015
 * __J. Rydzewski__, W. Nowak, and G. Nicosia  
   *Inferring Pathological States in Cortical Neuron Microcircuits*  
   J. Theor. Biol. 386, 34 (2015)  
