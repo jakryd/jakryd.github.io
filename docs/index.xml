@@ -8,14 +8,57 @@
     <language>en-us</language><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jakryd.github.io/group/</link>
+      <link>https://jakryd.github.io/group/jakub-rydzewski/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jakryd.github.io/group/</guid>
-      <description>Group Group leader:
-Dr. Jakub Rydzewski PhD students:
-Sylwia Czach Tuğçe Gökdemir Students:
-Patryk Tajs </description>
+      <guid>https://jakryd.github.io/group/jakub-rydzewski/</guid>
+      <description>Dr. Jakub Rydzewski email: jr@fizyka.umk.pl (0x9C1099DF)
+wire: @jkrd
+orcid: 0000-0003-4325-4177
+arXiv: 0000-0003-4325-4177
+scholar: dEMXOpcAAAAJ
+Scientific Career
+2023-2024 Japan Society for the Promotion of Science (JSPS) Fellow at the National Institute of Advanced Industrial Science and Technology (AIST), Japan, the group of Prof. Tetsuya Morishita. Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/group/patryk-tajs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/group/patryk-tajs/</guid>
+      <description>Patryk Tajs Education
+Since 2022 MSc in Computer Science at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Jakub Rydzewski</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/group/sylwia-czach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/group/sylwia-czach/</guid>
+      <description>Sylwia Czach email: s.czach@doktorant.umk.pl
+orcid: 0000-0002-1546-1075
+arXiv: 0000-0002-1546-1075
+scholar: Wo7AmEcAAAAJ
+Education
+Since 2020 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Jakub Rydzewski and Prof. Dr. Wiesław Nowak
+2017-2020 MSc in Biotechnology at the Institue of Physics NCU (Toruń, Poland). Thesis: Biochemical characterization of phosphatases from Vipera Xanthina venom</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jakryd.github.io/group/tugce-gokdemir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/group/tugce-gokdemir/</guid>
+      <description>Tuğçe Gökdemir email: tugcegokdemir@doktorant.umk.pl
+orcid: 0000-0002-7475-6797
+arXiv: 0000-0002-7475-6797
+scholar: hmnFCpcAAAAJ
+Education
+Since 2023 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Jakub Rydzewski and Prof. Dr. Wiesław Nowak
+2020-2022 MSc in Bioengineering at the Adana Alparslan Türkeş Science and Technology University (Adana, Turkey), Thesis: Theoretical Investigation of Mixed Metal Organic Frameworks as H2 Adsorbents</description>
     </item>
     
     <item>
