@@ -1,6 +1,7 @@
 ---
 title: ""
 draft: false
+permalink: group/patryk-tajs
 ---
 
 ###### **Patryk Tajs**
