@@ -20,3 +20,5 @@ Students:
 * [Patryk Tajs](patryk-tajs)
 ---
 
+Alumni:
+* Jacek Wierzejewski, Bartosz Jagodziński, Karolina Kolonko, Aleksandra Warmbier, Aleksander Oskroba, Wojciech Amtmański, Kajetan Krzewina
