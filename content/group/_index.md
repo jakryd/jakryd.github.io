@@ -1,6 +1,7 @@
 ---
 title: ""
 draft: false
+layout: single
 ---
 
 ##### Group
@@ -18,3 +19,4 @@ PhD students:
 Students:
 * [Patryk Tajs](patryk-tajs)
 ---
+
