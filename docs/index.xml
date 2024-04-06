@@ -13,10 +13,11 @@
       
       <guid>https://jakryd.github.io/group/jakub-rydzewski/</guid>
       <description>Dr. Jakub Rydzewski email: jr@fizyka.umk.pl (0x9C1099DF)
-wire: @jkrd
+wire: @jkrd x: @JakubRydzewski
 orcid: 0000-0003-4325-4177
 arXiv: 0000-0003-4325-4177
 scholar: dEMXOpcAAAAJ
+github: @jakryd
 Scientific Career
 2023-2024 Japan Society for the Promotion of Science (JSPS) Fellow at the National Institute of Advanced Industrial Science and Technology (AIST), Japan, the group of Prof. Tetsuya Morishita. Since 2019 Assistant Professor at the Institute of Physics NCU (Toruń, Poland). 2019 Visiting Professor at the Department of Physics, University of Tsukuba, Japan, the group of Prof.</description>
     </item>
@@ -89,8 +90,7 @@ doi:10.1088/2632-2153/ace81a / arXiv:2303.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/software/</guid>
-      <description>Software github: @jakryd
-PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
+      <description>Software PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
 lowlearner maze lowlearner maze maze (version 1.0) [1,2]
 Github
 maze is a code that implements enhanced sampling methods for sampling the reaction pathways of ligand unbinding. It is made as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.</description>

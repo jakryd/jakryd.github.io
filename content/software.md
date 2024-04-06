@@ -7,8 +7,6 @@ math: true
 ##### Software
 ---
 
-github: [@jakryd](https://github.com/jakryd)  
-
 * [PLUMED](https://www.plumed.org/) -- an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations.
 
 Modules for PLUMED2:

@@ -8,11 +8,12 @@ draft: false
 
 email: <jr@fizyka.umk.pl> ([0x9C1099DF](/gpg.asc))  
 wire: [@jkrd](https://account.wire.com/user-profile/?id=C96B75EF-25A6-49DC-80A2-846CC0B50DE4)    
+x: [@JakubRydzewski](https://twitter.com/JakubRydzewski)   
 
 orcid: [0000-0003-4325-4177](https://orcid.org/0000-0003-4325-4177)  
 arXiv: [0000-0003-4325-4177](https://arxiv.org/a/0000-0003-4325-4177.html)  
 scholar: [dEMXOpcAAAAJ](https://scholar.google.com/citations?&user=dEMXOpcAAAAJ)  
-
+github: [@jakryd](https://github.com/jakryd)  
 
 *Scientific Career*
 

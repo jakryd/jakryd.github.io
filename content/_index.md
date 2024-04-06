@@ -6,6 +6,8 @@ draft: false
 ##### Research
 ---
 
+<img style="float: right;" src="/markov.jpeg" alt="drawing" width="185"/>
+
 I am an assistant professor at the Institute of Physics, Nicolaus 
 Copernicus University (NCU), Grudziadzka 5, 87-100 Toruń, Poland.
 
@@ -15,10 +17,7 @@ systems.
 
 My group currently focuses on [spectral map](https://doi.org/10.1021/acs.jpclett.3c01101), 
 a statistical learning method for constructing reaction coordinates to describe 
-long-timescale dynamics.
-
-If you are interested in working with us, drop a message at <jr@fizyka.umk.pl> or 
-[@jkrd](https://account.wire.com/user-profile/?id=C96B75EF-25A6-49DC-80A2-846CC0B50DE4).
+long-timescale *Markovian* dynamics.
 
 Some of our recent publications:
 * __J. Rydzewski__, T. Gökdemir  
