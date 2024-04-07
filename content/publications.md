@@ -36,7 +36,8 @@ draft: false
 * __J. Rydzewski__  
   *Selecting High-Dimensional Representations of Physical Systems by Reweighted Diffusion Maps*  
   J. Phys. Chem. Lett. 14, 2778 (2023)  
-  [doi:10.1021/acs.jpclett.3c00265](https://doi.org/10.1021/acs.jpclett.3c00265)  
+  [doi:10.1021/acs.jpclett.3c00265](https://doi.org/10.1021/acs.jpclett.3c00265) /
+  [arXiv:2404.02639](https://arxiv.org/abs/2404.02639)
 
 * B. Niklas, __J. Rydzewski__, B. Lapied, W. Nowak  
   *Toward Overcoming Pyrethroid Resistance in Mosquito Control: The Role of Sodium Channel Blocker Insecticides*  
