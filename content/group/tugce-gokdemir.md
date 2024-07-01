@@ -7,10 +7,12 @@ draft: false
 ---
 
 email: <tugcegokdemir@doktorant.umk.pl>  
+x: [@tugcegokdemir](https://twitter.com/tugceegokdemir)   
 
 orcid: [0000-0002-7475-6797](https://orcid.org/0000-0002-7475-6797)  
 arXiv: [0000-0002-7475-6797](https://arxiv.org/a/0000-0002-7475-6797.html)  
 scholar: [hmnFCpcAAAAJ](https://scholar.google.com/citations?user=hmnFCpcAAAAJ)  
+github: [@TugceGokdemir](https://github.com/TugceGokdemir)  
 
 
 *Education*

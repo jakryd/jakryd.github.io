@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JR&#39;s Research</title>
+    <link>https://jakryd.github.io/posts/</link>
+    <description>Recent content in Posts on JR&#39;s Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://jakryd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[New Article] Learning Markovian Dynamics with Spectral Maps</title>
+      <link>https://jakryd.github.io/posts/jcp-10.1063-5.0189241/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/posts/jcp-10.1063-5.0189241/</guid>
+      <description>Learning Markovian Dynamics with Spectral Maps J. Rydzewski, T. Gökdemir
+Learning Markovian Dynamics with Spectral Maps
+J. Chem. Phys. 160, 091102 (2024)
+doi:10.1063/5.0189241 / arXiv:2311.16411 / Zenodo:10678142 / plumID:24.005 Abstract
+The long-time behavior of many complex molecular systems can often be described by Markovian dynamics in a slow subspace spanned by a few reaction coordinates referred to as collective variables (CVs). However, determining CVs poses a fundamental challenge in chemical physics.</description>
+    </item>
+    
+  </channel>
+</rss>

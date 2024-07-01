@@ -1,6 +1,13 @@
 {{ define "main" }}
 
-<div id="home-jumbotron" class="jumbotron">
+<br>
+<h1>{{ .Title }}</h1>
+{{ range first 3 (where site.RegularPages "Section" "posts") }}
+  <div class="post-title">
+    {{ .Date.Format "2006-01-02" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </div>
+{{ end }}
+<br>
 {{ with .Content }}
   <h1>{{ $.Page.Title }}</h1>
   {{ . }}
@@ -8,6 +15,5 @@
   <h1>{{ .Site.Title }}</h1>
   <p class="font-125">{{ .Site.Params.homeText | markdownify }}</p>
 {{ end }}
-</div>
 
 {{ end }}

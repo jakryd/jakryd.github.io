@@ -15,7 +15,7 @@ My research involves using statistical physics and machine learning to
 develop advanced simulation techniques for exploring complex physical 
 systems.
 
-My group currently focuses on [spectral map](https://doi.org/10.1021/acs.jpclett.3c01101), 
+My group currently focuses on [Spectral Map](https://doi.org/10.1021/acs.jpclett.3c01101), 
 a statistical learning method for constructing reaction coordinates to describe 
 long-timescale *Markovian* dynamics.
 

@@ -5,7 +5,21 @@
     <link>https://jakryd.github.io/</link>
     <description>Recent content on JR&#39;s Research</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://jakryd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[New Article] Learning Markovian Dynamics with Spectral Maps</title>
+      <link>https://jakryd.github.io/posts/jcp-10.1063-5.0189241/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakryd.github.io/posts/jcp-10.1063-5.0189241/</guid>
+      <description>Learning Markovian Dynamics with Spectral Maps J. Rydzewski, T. Gökdemir
+Learning Markovian Dynamics with Spectral Maps
+J. Chem. Phys. 160, 091102 (2024)
+doi:10.1063/5.0189241 / arXiv:2311.16411 / Zenodo:10678142 / plumID:24.005 Abstract
+The long-time behavior of many complex molecular systems can often be described by Markovian dynamics in a slow subspace spanned by a few reaction coordinates referred to as collective variables (CVs). However, determining CVs poses a fundamental challenge in chemical physics.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://jakryd.github.io/group/jakub-rydzewski/</link>
@@ -28,8 +42,10 @@ Scientific Career
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jakryd.github.io/group/patryk-tajs/</guid>
-      <description>Patryk Tajs Education
-Since 2022 MSc in Computer Science at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Jakub Rydzewski</description>
+      <description>Patryk Tajs github: Minosyx
+Education
+Since 2022 MSc in Computer Science at the Institue of Physics NCU (Toruń, Poland). Supervisor: Dr. Jakub Rydzewski
+2019-2022 BSc Eng in Computer Science at the Institue of Physics NCU (Toruń, Poland). Supervisor: Dr. Jakub Rydzewski</description>
     </item>
     
     <item>
@@ -54,9 +70,11 @@ Since 2020 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Pola
       
       <guid>https://jakryd.github.io/group/tugce-gokdemir/</guid>
       <description>Tuğçe Gökdemir email: tugcegokdemir@doktorant.umk.pl
+x: @tugcegokdemir
 orcid: 0000-0002-7475-6797
 arXiv: 0000-0002-7475-6797
 scholar: hmnFCpcAAAAJ
+github: @TugceGokdemir
 Education
 Since 2023 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Jakub Rydzewski and Prof. Dr. Wiesław Nowak
 2020-2022 MSc in Bioengineering at the Adana Alparslan Türkeş Science and Technology University (Adana, Turkey), Thesis: Theoretical Investigation of Mixed Metal Organic Frameworks as H2 Adsorbents</description>
@@ -91,9 +109,8 @@ doi:10.1088/2632-2153/ace81a / arXiv:2303.</description>
       
       <guid>https://jakryd.github.io/software/</guid>
       <description>Software PLUMED &amp;ndash; an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
-lowlearner maze lowlearner maze maze (version 1.0) [1,2]
-Github
-maze is a code that implements enhanced sampling methods for sampling the reaction pathways of ligand unbinding. It is made as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.</description>
+lowlearner maze lowlearner (version beta) [1,2] / zenodo
+lowlearner is a code for learning collective variables (CVs) from standard and enhanced sampling simulations. Installation script and examples can be found in the Zenodo dataset. It is implemented as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.</description>
     </item>
     
   </channel>

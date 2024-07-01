@@ -7,9 +7,8 @@
   <meta name="generator" content="Hugo 0.112.5">
   
   <meta name="description" content="Software PLUMED – an open-source, community-developed library that provides methods for enhanced sampling, free energy estimation, and analysis of molecular dynamics (MD) simulations. Modules for PLUMED2:
-lowlearner maze lowlearner maze maze (version 1.0) [1,2]
-Github
-maze is a code that implements enhanced sampling methods for sampling the reaction pathways of ligand unbinding. It is made as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.">
+lowlearner maze lowlearner (version beta) [1,2] / zenodo
+lowlearner is a code for learning collective variables (CVs) from standard and enhanced sampling simulations. Installation script and examples can be found in the Zenodo dataset. It is implemented as a module for PLUMED2, an engine for free energy calculations of atomistic systems and enhanced sampling.">
   <link rel="stylesheet" href="https://jakryd.github.io/css/bootstrap.min.css">
   
   
@@ -82,6 +81,7 @@ audio {
   width: initial;
 }
 </style>
+
 </head>
   <body class="d-flex flex-column h-100">
     <div id="nav-border" class="container">
@@ -147,8 +147,7 @@ audio {
     <div class="container">
       <main id="main">
         
-
-<h1></h1>
+<br>
 <h5 id="software">Software</h5>
 <hr>
 <ul>
@@ -161,41 +160,66 @@ audio {
 </ul>
 <hr>
 <h5 id="lowlearner"><code>lowlearner</code></h5>
-<hr>
-<h5 id="maze"><code>maze</code></h5>
-<hr>
-<p><code>maze</code> (version 1.0) <a href="#references">[1,2]</a><br>
-<a href="https://github.com/plumed/plumed2">Github</a></p>
-<p><code>maze</code> is a code that implements enhanced sampling methods for sampling the
-reaction pathways of ligand unbinding. It is made as a module for
-<a href="https://plumed.github.io/doc-v2.5/user-doc/html/index.html">PLUMED2</a>, an engine for
-free energy calculations of atomistic systems and enhanced sampling.</p>
-<p>To use the module, you need enable <code>maze</code> by adding the <code>--enable-modules=maze</code>
+<p>(version beta) <a href="#references">[1,2]</a> /
+<a href="https://zenodo.org/records/4756093">zenodo</a></p>
+<p><code>lowlearner</code> is a code for learning collective variables (CVs) from standard
+and enhanced sampling simulations. Installation script and examples can
+be found in the Zenodo <a href="https://zenodo.org/records/4756093">dataset</a>. It is
+implemented as a module for  <a href="https://plumed.github.io/doc-v2.5/user-doc/html/index.html">PLUMED2</a>,
+an engine for free energy calculations of atomistic systems and enhanced
+sampling. The code requires PLUMED to be linked with LibTorch v1.8.</p>
+<p>To use the module, you need enable <code>lowlearner</code> by adding the
+<code>--enable-modules=lowlearner</code> or <code>--enable-modules=all</code>
 to the PLUMED configure command. You can follow the instructions given
 <a href="https://plumed.github.io/doc-v2.4/user-doc/html/_installation.html">here</a>.</p>
 <p>For example:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>&gt; ./configure --enable-modules<span style="color:#f92672">=</span>maze
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>&gt; ./configure --enable-modules<span style="color:#f92672">=</span>lowlearner
 </span></span><span style="display:flex;"><span>&gt; make -j <span style="color:#ae81ff">4</span>
 </span></span><span style="display:flex;"><span>&gt; make install
 </span></span></code></pre></div><p>You can ask questions or join the development discussion on
 <a href="https://groups.google.com/forum/#!forum/plumed-users">PLUMED Google group</a>.</p>
+<hr>
+<h5 id="maze"><code>maze</code></h5>
+<p>(version 1.0) <a href="#references">[3,4]</a> /
+<a href="https://github.com/plumed/plumed2">github</a></p>
+<p><code>maze</code> is a code that implements enhanced sampling methods for sampling the
+reaction pathways of ligand unbinding. It can be installed as a module in
+PLUMED similarly to the <code>lowlearner</code> module.</p>
 <p>During its development, <code>maze</code> was funded by the National Science Center grants
 no. 2015/19/N/ST3/02171, 2016/20/T/ST3/00488, and in part by 2016/23/B/ST4/01770.</p>
+<h6 id="references">References</h6>
 <ol>
+<li>
+<p><strong>J. Rydzewski</strong>, and <a href="https://www2.mpip-mainz.mpg.de/~valsson/">O. Valsson</a><br>
+<em>Multiscale Reweighted Stochastic Embedding: Deep Learning of Collective Variables for Enhanced Sampling</em><br>
+J. Phys. Chem. A 125, 6286 (2021)<br>
+<a href="https://doi.org/10.1021/acs.jpca.1c02869">doi:10.1021/acs.jpca.1c02869</a> /
+<a href="https://arxiv.org/abs/2007.06377">arXiv:2007.06377</a> /
+<a href="https://zenodo.org/record/4756093">Zenodo:4756093</a> /
+<a href="https://www.plumed-nest.org/eggs/21/023/">plumID:21.023</a></p>
+</li>
+<li>
+<p><strong>J. Rydzewski</strong>, M. Chen, T. K. Ghosh, <a href="https://www2.mpip-mainz.mpg.de/~valsson/">O. Valsson</a><br>
+<em>Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations</em><br>
+J. Chem. Theory Comput. 18, 7179 (2022)<br>
+<a href="https://doi.org/10.1021/acs.jctc.2c00873">doi:10.1021/acs.jctc.2c00873</a> /
+<a href="https://arxiv.org/abs/2207.14554">arXiv:2207.14554</a> /
+<a href="https://plumed-nest.org/eggs/21/023/">plumID:21.023</a></p>
+</li>
 <li>
 <p><strong>J. Rydzewski</strong><br>
 <em>maze: Heterogeneous Ligand Unbinding along Transient Protein Tunnels</em><br>
 Comp. Phys. Commun. 247, 106865 (2020)<br>
-<a href="https://doi.org/10.1016/j.cpc.2019.106865">DOI</a>
-<a href="https://arxiv.org/abs/1904.03929">arXiv</a>
+<a href="https://doi.org/10.1016/j.cpc.2019.106865">doi:10.1016/j.cpc.2019.106865</a> /
+<a href="https://arxiv.org/abs/1904.03929">arXiv:1904.03929</a> /
 <a href="https://www.plumed-nest.org/eggs/19/056/">plumID:19.056</a></p>
 </li>
 <li>
-<p><strong>J. Rydzewski</strong>, and O. Valsson<br>
+<p><strong>J. Rydzewski</strong>, and <a href="https://www2.mpip-mainz.mpg.de/~valsson/">O. Valsson</a><br>
 <em>Finding Multiple Reaction Pathways of Ligand Unbinding</em><br>
 J. Chem. Phys. 150, 221101 (2019)<br>
-<a href="https://doi.org/10.1063/1.5108638">DOI</a>
-<a href="https://arxiv.org/abs/1808.08089">arXiv</a>
+<a href="https://doi.org/10.1063/1.5108638">doi:10.1063/1.5108638</a> /
+<a href="https://arxiv.org/abs/1808.08089">arXiv:1808.08089</a> /
 <a href="https://www.plumed-nest.org/eggs/19/066/">plumID:19.066</a></p>
 </li>
 </ol>
