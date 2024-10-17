@@ -18,7 +18,12 @@ systems.
 My group currently focuses on [Spectral Map](https://doi.org/10.1021/acs.jpclett.3c01101), 
 a statistical learning method for constructing collective variables.
 
-Some of our recent publications:
+Contact us at: <jr@fizyka.umk.pl>
+
+---
+
+Recent publications:
+
 * __J. Rydzewski__  
   *Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles*  
   J. Chem. Theory Comput. 20, 7775 (2024)  
