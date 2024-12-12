@@ -46,8 +46,8 @@ You can ask questions or join the development discussion on
 
 ##### `maze`
 
-(version 1.0) [[3,4]](#references) / 
-[github](https://github.com/plumed/plumed2)
+(version 1.0) [[3,4]](#references) / [github](https://github.com/plumed/plumed2)  
+(version 2.0) [[5]](#references) / [github](https://github.com/jakryd/plumed2-maze) / [tutorial](https://www.plumed-tutorials.org/lessons/24/008/data/)  
 
 `maze` is a code that implements enhanced sampling methods for sampling the 
 reaction pathways of ligand unbinding. It can be installed as a module in 
@@ -85,3 +85,8 @@ no. 2015/19/N/ST3/02171, 2016/20/T/ST3/00488, and in part by 2016/23/B/ST4/01770
   [doi:10.1063/1.5108638](https://doi.org/10.1063/1.5108638) /
   [arXiv:1808.08089](https://arxiv.org/abs/1808.08089) /
   [plumID:19.066](https://www.plumed-nest.org/eggs/19/066/)
+
+
+5. G.A. Tribello, M. Bonomi, G. Bussi, C. Camilloni, et al.  
+  *PLUMED Tutorials: A Collaborative, Community-Driven Learning Ecosystem*    
+  [arXiv:2412.03595](https://arxiv.org/abs/2412.03595)

@@ -11,8 +11,9 @@ github: [Minosyx](https://github.com/Minosyx)
 
 *Education*
 
-Since 2022
-:   *MSc in Computer Science* at the Institue of Physics NCU (Toruń, Poland).
+2022-2024
+:   *MSc in Computer Science* at the Institue of Physics NCU (Toruń, Poland).  
+    Thesis: Stochastic Dimensionality Reduction of Complex Systems
 
     Supervisor: [Dr. Jakub Rydzewski](../jakub-rydzewski)
 
