@@ -24,6 +24,12 @@ Contact us at: <jr@fizyka.umk.pl>
 
 Recent publications:
 
+* T. Gökdemir, __J. Rydzewski__  
+  *Machine Learning of Slow Collective Variables and Enhanced Sampling via
+Spatial Techniques*    
+  Chem. Phys. Rev. 6, 011304 (2025)   
+  [doi:10.1063/5.0245177](https://doi.org/10.1063/5.0245177) 
+
 * __J. Rydzewski__  
   *Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles*  
   J. Chem. Theory Comput. 20, 7775 (2024)  

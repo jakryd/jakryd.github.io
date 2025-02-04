@@ -6,11 +6,14 @@ draft: false
 ##### Publications
 ---
 
-2024
+2025
 * T. Gökdemir, __J. Rydzewski__  
   *Machine Learning of Slow Collective Variables and Enhanced Sampling via
 Spatial Techniques*    
-  Upcoming
+  Chem. Phys. Rev. 6, 011304 (2025)   
+  Special Collection: *[AI and Machine Learning in Chemical and Materials Science](https://pubs.aip.org/cpr/collection/364949/AI-and-Machine-Learning-in-Chemical-and-Materials)*  
+  [doi:10.1063/5.0245177](https://doi.org/10.1063/5.0245177) /
+  [arXiv:2412.20868](https://arxiv.org/abs/2412.20868)
 
 * G.A. Tribello, M. Bonomi, G. Bussi, C. Camilloni, et al.  
   *PLUMED Tutorials: A Collaborative, Community-Driven Learning Ecosystem*    
@@ -20,6 +23,7 @@ Spatial Techniques*
   *A Note on Spectral Map*    
   [arXiv:2412.04011](https://arxiv.org/abs/2412.04011)
 
+2024
 * __J. Rydzewski__  
   *Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles*  
   J. Chem. Theory Comput. 20, 7775 (2024)  
