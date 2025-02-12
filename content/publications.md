@@ -7,7 +7,7 @@ draft: false
 ---
 
 2025
-* T. Gökdemir, __J. Rydzewski__  
+* __T. Gökdemir__, __J. Rydzewski__  
   *Machine Learning of Slow Collective Variables and Enhanced Sampling via
 Spatial Techniques*    
   Chem. Phys. Rev. 6, 011304 (2025)   
@@ -15,11 +15,15 @@ Spatial Techniques*
   [doi:10.1063/5.0245177](https://doi.org/10.1063/5.0245177) /
   [arXiv:2412.20868](https://arxiv.org/abs/2412.20868)
 
+* B. Niklas, E. Moreau, C. Deshayes, __J. Rydzewski__, M. Jankowska, J. Kesy, A. J. Martins, P. Mueller, V. Corbel, W. Nowak, B. Lapied  
+  *Cytochrome P450 Inhibition Impedes Pyrethroid Effects on Insects through Nav Channel Regulation*  
+  [bioRxiv:10.1101/2025.02.03.636193](https://www.biorxiv.org/content/10.1101/2025.02.03.636193v1.abstract)  
+
 * G.A. Tribello, M. Bonomi, G. Bussi, C. Camilloni, et al.  
   *PLUMED Tutorials: A Collaborative, Community-Driven Learning Ecosystem*    
   [arXiv:2412.03595](https://arxiv.org/abs/2412.03595)
 
-* T. Gökdemir, __J. Rydzewski__  
+* __T. Gökdemir__, __J. Rydzewski__  
   *A Note on Spectral Map*    
   [arXiv:2412.04011](https://arxiv.org/abs/2412.04011)
 
@@ -31,7 +35,7 @@ Spatial Techniques*
   [doi:10.1021/acs.jctc.4c00428](https://doi.org/10.1021/acs.jctc.4c00428) /
   [arXiv:2409.06428](https://arxiv.org/abs/2409.06428)
 
-* __J. Rydzewski__, T. Gökdemir  
+* __J. Rydzewski__, __T. Gökdemir__  
   *Learning Markovian Dynamics with Spectral Maps*  
   J. Chem. Phys. 160, 091102 (2024)  
   [doi:10.1063/5.0189241](https://doi.org/10.1063/5.0189241) /
@@ -44,7 +48,7 @@ Spatial Techniques*
   Biophys. Rev. 5, 032105 (2024)  
   [doi:10.1063/5.0226428](https://doi.org/10.1063/5.0226428)  
 
-* T. Gökdemir, __J. Rydzewski__  
+* __T. Gökdemir__, __J. Rydzewski__  
   *Spectral Maps for Learning Reduced Representations of Molecular Systems*  
   [CCP2023 - 34th IUPAP Conference on Computational Physics](https://ccp2023.jp/)  
   [arXiv:2311.03641](https://arxiv.org/abs/2311.03641)

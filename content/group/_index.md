@@ -16,5 +16,8 @@ PhD students:
 * [Tuğçe Gökdemir](tugce-gokdemir)
 ---
 
+Visiting:
+* [Tejas Shah](tejas-shah)
+
 Alumni:
 * [Patryk Tajs](patryk-tajs), Jacek Wierzejewski, Bartosz Jagodziński, Karolina Kolonko, Aleksandra Warmbier, Aleksander Oskroba, Wojciech Amtmański, Kajetan Krzewina
