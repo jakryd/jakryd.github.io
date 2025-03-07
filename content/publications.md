@@ -21,6 +21,9 @@ Spatial Techniques*
 
 * G.A. Tribello, M. Bonomi, G. Bussi, C. Camilloni, et al.  
   *PLUMED Tutorials: A Collaborative, Community-Driven Learning Ecosystem*    
+  J. Chem. Phys. 162, 092501 (2025)  
+  Special Collection: *[Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)*  
+  [doi:10.1063/5.0251501](https://doi.org/10.1063/5.0251501) /
   [arXiv:2412.03595](https://arxiv.org/abs/2412.03595)
 
 * __T. Gökdemir__, __J. Rydzewski__  

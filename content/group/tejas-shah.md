@@ -15,5 +15,5 @@ scholar: [f5-82KUAAAAJ](https://scholar.google.com/citations?user=f5-82KUAAAAJ)
 *Education*
 
 Since 2019
-:   *PhD in Chemistry* at Department of Chemistry and Biochemistry University of Texas at Dallas.
+:   *PhD in Chemistry* at Department of Chemistry and Biochemistry University of Texas at Dallas
 

@@ -18,6 +18,7 @@ PhD students:
 
 Visiting:
 * [Tejas Shah](tejas-shah)
+* [Razil Tahir](razil-tahir)
 
 Alumni:
 * [Patryk Tajs](patryk-tajs), Jacek Wierzejewski, Bartosz Jagodziński, Karolina Kolonko, Aleksandra Warmbier, Aleksander Oskroba, Wojciech Amtmański, Kajetan Krzewina
