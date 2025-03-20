@@ -7,6 +7,10 @@ draft: false
 ---
 
 2025
+* K. Walczewska-Szewc, __J. Rydzewski__  
+  *Decoding Binding Pathways of Ligands in Prolyl Oligopeptidase*   
+  [arXiv:2503.15139](https://arxiv.org/abs/2503.15139)   
+
 * __T. Gökdemir__, __J. Rydzewski__  
   *Machine Learning of Slow Collective Variables and Enhanced Sampling via
 Spatial Techniques*    
