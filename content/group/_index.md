@@ -14,6 +14,7 @@ Group leader:
 PhD students:
 * [Sylwia Czach](sylwia-czach)
 * [Tuğçe Gökdemir](tugce-gokdemir)
+* [Matuesz Skarupski](mateusz-skarupski)
 ---
 
 Visiting:
