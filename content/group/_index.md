@@ -18,8 +18,7 @@ PhD students:
 ---
 
 Visiting:
-* [Tejas Shah](tejas-shah)
-* [Razil Tahir](razil-tahir)
+* Tejas Shah (UT Dallas), Razil Tahir (University of Malaya), Sneha Anna Sunny (St Berchmans College), Meera Kattoor (St Berchmans College), Siwoo Lee (Priceton)
 
 Alumni:
 * [Patryk Tajs](patryk-tajs), Jacek Wierzejewski, Bartosz Jagodziński, Karolina Kolonko, Aleksandra Warmbier, Aleksander Oskroba, Wojciech Amtmański, Kajetan Krzewina

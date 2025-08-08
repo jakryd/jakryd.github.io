@@ -13,7 +13,8 @@
       
       <guid>https://jakryd.github.io/group/jakub-rydzewski/</guid>
       <description>Dr. Jakub Rydzewski email: jr@fizyka.umk.pl (0x9C1099DF)
-wire: @jkrd x: @JakubRydzewski
+x: @JakubRydzewski
+bsky: @jkrd
 orcid: 0000-0003-4325-4177
 arXiv: 0000-0003-4325-4177
 scholar: dEMXOpcAAAAJ
@@ -29,6 +30,9 @@ Scientific Career
       
       <guid>https://jakryd.github.io/group/mateusz-skarupski/</guid>
       <description>Mateusz Skarupski email: mskarupski@doktorant.umk.pl
+orcid: 0009-0008-9037-7907
+arXiv: 0009-0008-9037-7907
+scholar: dEMXOpcAAAAJ
 github: @Skaipi
 Education
 Since 2024 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Poland). Supervisors: Dr. Norbert Jankowski and Dr. Jakub Rydzewski</description>
@@ -111,14 +115,17 @@ Since 2023 PhD in Physical Sciences at the Institue of Physics NCU (Toruń, Pola
       
       <guid>https://jakryd.github.io/publications/</guid>
       <description>Publications 2025
-K. Walczewska-Szewc, J. Rydzewski
-Decoding Binding Pathways of Ligands in Prolyl Oligopeptidase
-arXiv:2503.15139
-T. Gökdemir, J. Rydzewski
-Machine Learning of Slow Collective Variables and Enhanced Sampling via Spatial Techniques Chem. Phys. Rev. 6, 011304 (2025)
-Special Collection: AI and Machine Learning in Chemical and Materials Science
-doi:10.1063/5.0245177 / arXiv:2412.20868
-B. Niklas, E. Moreau, C. Deshayes, J. Rydzewski, M. Jankowska, J. Kesy, A. J. Martins, P. Mueller, V. Corbel, W.</description>
+Y. Wang, J. Rydzewski, M. Chen
+Constructing Generalized Sample Transition Probabilities with Biased Simulations
+arxiv:2508.03977
+P. Tajs, M. Skarupski, J. Rydzewski
+NeuralTSNE: A Python Package for the Dimensionality Reduction of Molecular Dynamics Data Using Neural Networks
+J. Chem. Inf. Model. 65, 14, 7347
+doi:10.1021/acs.jcim.5c01107 / arXiv:2505.1676
+S. Czach, J. Rydzewski, W. Nowak
+Illuminating Protein Dynamics: A Review of Computational Methods for Studying Photoactive Proteins
+arXiv:2503.21418
+K. Walczewska-Szewc, J. Rydzewski</description>
     </item>
     
     <item>

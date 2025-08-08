@@ -9,6 +9,10 @@ permalink: group/mateusz-skarupski
 
 email: <mskarupski@doktorant.umk.pl>  
 
+orcid: [0009-0008-9037-7907](https://orcid.org/0009-0008-9037-7907)  
+arXiv: [0009-0008-9037-7907](https://arxiv.org/a/0009-0008-9037-7907.html)  
+scholar: [dEMXOpcAAAAJ](https://scholar.google.com/citations?&user=dEMXOpcAAAAJ)  
+
 github: [@Skaipi](https://github.com/Skaipi)  
 
 

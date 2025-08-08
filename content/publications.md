@@ -7,6 +7,20 @@ draft: false
 ---
 
 2025
+* Y. Wang, __J. Rydzewski__, M. Chen  
+  *Constructing Generalized Sample Transition Probabilities with Biased Simulations*  
+  [arxiv:2508.03977](https://arxiv.org/abs/2508.03977)  
+
+* __P. Tajs__, __M. Skarupski__, __J. Rydzewski__  
+  *NeuralTSNE: A Python Package for the Dimensionality Reduction of Molecular Dynamics Data Using Neural Networks*  
+  J. Chem. Inf. Model. 65, 14, 7347  
+  [doi:10.1021/acs.jcim.5c01107](https://doi.org/10.1021/acs.jcim.5c01107) / 
+  [arXiv:2505.1676](https://arxiv.org/abs/2505.16476)  
+
+* __S. Czach__, __J. Rydzewski__, W. Nowak  
+  *Illuminating Protein Dynamics: A Review of Computational Methods for Studying Photoactive Proteins*  
+  [arXiv:2503.21418](https://arxiv.org/abs/arXiv:2503.21418)  
+
 * K. Walczewska-Szewc, __J. Rydzewski__  
   *Decoding Binding Pathways of Ligands in Prolyl Oligopeptidase*   
   [arXiv:2503.15139](https://arxiv.org/abs/2503.15139)   
@@ -32,6 +46,7 @@ Spatial Techniques*
 
 * __T. Gökdemir__, __J. Rydzewski__  
   *A Note on Spectral Map*    
+  Ensemble Journal of the Molecular Simulation Society of Japan (MSSJ)  
   [arXiv:2412.04011](https://arxiv.org/abs/2412.04011)
 
 2024
